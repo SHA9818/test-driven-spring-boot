@@ -1,0 +1,6 @@
+projectKey=com.tekmentors.app:TDDApp
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.tekmentors.app:TDDApp
+ceTaskId=AWYere8JxrZmECMmIadL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWYere8JxrZmECMmIadL
